@@ -1,0 +1,68 @@
+.createData {
+  max-width: 600px;
+  margin: 50px auto;
+  background: #fff;
+  border-radius: 12px;
+  padding: 30px 40px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  font-family: 'Poppins', sans-serif;
+}
+
+.createData h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 25px;
+  font-size: 1.8rem;
+  letter-spacing: 0.5px;
+}
+
+.createData label {
+  display: block;
+  margin-top: 15px;
+  color: #444;
+  font-weight: 600;
+}
+
+.createData input,
+.createData textarea,
+.createData select {
+  width: 100%;
+  padding: 10px 12px;
+  margin-top: 6px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+  transition: border 0.2s ease, box-shadow 0.2s ease;
+}
+
+.createData input:focus,
+.createData textarea:focus,
+.createData select:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 4px rgba(0, 123, 255, 0.3);
+}
+
+.createData textarea {
+  resize: vertical;
+  min-height: 120px;
+}
+
+.createData button {
+  display: block;
+  width: 100%;
+  margin-top: 25px;
+  padding: 12px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.createData button:hover {
+  background: #0056b3;
+}

@@ -1,0 +1,66 @@
+/* Home page container */
+.home {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 20px;
+  font-family: 'Inter', sans-serif;
+}
+
+/* Page heading */
+.home h2 {
+  text-align: center;
+  color: #222;
+  margin-bottom: 40px;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+/* Blog list layout */
+.blog-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 25px;
+}
+
+/* Each blog preview/card */
+.blog-preview {
+  background: #fff;
+  border-radius: 12px;
+  padding: 25px 20px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+  transition: all 0.25s ease;
+  cursor: pointer;
+}
+
+.blog-preview:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.12);
+}
+
+/* Blog title */
+.blog-preview h2 {
+  color: #e63946;
+  font-size: 22px;
+  margin-bottom: 8px;
+}
+
+/* Author info */
+.blog-preview p {
+  color: #777;
+  font-size: 14px;
+}
+
+/* Blog body preview text */
+.blog-preview .body-snippet {
+  margin-top: 10px;
+  color: #444;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+/* Loading and error text */
+.home div {
+  text-align: center;
+  font-size: 16px;
+  color: #555;
+}

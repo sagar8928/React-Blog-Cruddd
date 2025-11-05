@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "author": "mario",
+      "id": "1"
+    },
+    {
+      "title": "Welcome party!",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "author": "yoshi",
+      "id": "2"
+    },
+    {
+      "id": "b003",
+      "title": "birthday party",
+      "body": "i welcome you to my birthday party at my home ",
+      "author": ""
+    },
+    {
+      "title": "good morning",
+      "body": "hello Good Morning have a good day ",
+      "author": "sagar",
+      "id": "562d"
+    },
+    {
+      "id": "a159",
+      "title": "good afterNoon",
+      "body": "hello its a AfterNoon Break ",
+      "author": ""
+    },
+    {
+      "id": "be31",
+      "title": "adding a new Blog ",
+      "body": "this is a new blog that am adding in for checking if navigation to direct to home page if you see tnis means navigation to home page is succesfull ",
+      "author": "yashi"
+    },
+    {
+      "id": "45b9",
+      "title": "good night ",
+      "body": "its time to sleep , make sure get sleep and not to use screen time while sleeping , and drink glass of milk or water \n \nit will help better sleep.",
+      "author": "yashi"
+    }
+  ]
+}
